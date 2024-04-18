@@ -1,4 +1,4 @@
-# Java-eclipse-repos
+# Java-projects
 
 Here are some Java projects source codes for experiment with flaky test using eclipse
 

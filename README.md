@@ -6,3 +6,8 @@ Here are some Java projects source codes for experiment with flaky test using ec
 - This is a todo app: https://github.com/isisaddons/isis-app-todoapp/tree/master
 - This is a rock paper scissor game: https://github.com/darshjain/RockPaperScissors_JAVA_GUI
 - This is a billing system: https://github.com/Ja10th/Billing-System
+
+
+Here is an already integrated Percy projects:
+
+ https://github.com/frixatrix/example-percy-jest-puppeteer
